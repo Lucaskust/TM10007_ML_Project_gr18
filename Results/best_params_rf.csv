@@ -1,0 +1,2 @@
+outer_1,outer_2,outer_3,outer_4,outer_5
+"{'clf_class__max_depth': 4, 'clf_class__max_features': 1, 'clf_class__n_estimators': 65}","{'clf_class__max_depth': 3, 'clf_class__max_features': 0.1, 'clf_class__n_estimators': 55}","{'clf_class__max_depth': 5, 'clf_class__max_features': 1, 'clf_class__n_estimators': 50}","{'clf_class__max_depth': 4, 'clf_class__max_features': 1, 'clf_class__n_estimators': 50}","{'clf_class__max_depth': 4, 'clf_class__max_features': 0.2, 'clf_class__n_estimators': 60}"

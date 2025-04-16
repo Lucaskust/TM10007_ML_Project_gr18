@@ -1,0 +1,2 @@
+outer_1,outer_2,outer_3,outer_4,outer_5
+{'clf_class__var_smoothing': 0.01},{'clf_class__var_smoothing': 0.1},{'clf_class__var_smoothing': 0.1},{'clf_class__var_smoothing': 0.1},{'clf_class__var_smoothing': 0.1}

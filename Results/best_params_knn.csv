@@ -1,0 +1,2 @@
+outer_1,outer_2,outer_3,outer_4,outer_5
+{'clf_class__n_neighbors': 25},{'clf_class__n_neighbors': 9},{'clf_class__n_neighbors': 23},{'clf_class__n_neighbors': 10},{'clf_class__n_neighbors': 19}

@@ -1,0 +1,2 @@
+outer_1,outer_2,outer_3,outer_4,outer_5
+"{'clf_class__C': 1, 'clf_class__gamma': 'scale', 'clf_class__kernel': 'linear'}","{'clf_class__C': 5, 'clf_class__gamma': 'scale', 'clf_class__kernel': 'linear'}","{'clf_class__C': 5, 'clf_class__gamma': 'scale', 'clf_class__kernel': 'poly'}","{'clf_class__C': 0.1, 'clf_class__gamma': 'scale', 'clf_class__kernel': 'poly'}","{'clf_class__C': 1, 'clf_class__gamma': 'scale', 'clf_class__kernel': 'linear'}"
